@@ -10,4 +10,4 @@
 
 Графот е конструиран на база на броевите на соодветните јазли кои се обележани и прикачени во документот SI_Lab2_186040.txt
 
-![](control flow graph.png)
+![](https://github.com/filippetrovski-si/SI_lab2_186040/blob/master/control%20flow%20graph.png)
