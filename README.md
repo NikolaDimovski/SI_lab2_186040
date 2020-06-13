@@ -29,3 +29,4 @@
 Во овој критериум се земаат во предвид сите делови од кодот каде имаме услов со 2 или повеќе можности.
 
 ![](https://github.com/filippetrovski-si/SI_lab2_186040/blob/master/multiple1.png)
+![](https://github.com/filippetrovski-si/SI_lab2_186040/blob/master/multiple2.png)
